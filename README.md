@@ -13,10 +13,10 @@ and a freelance software developer since 2019 .
 
 
 - 🏢 I'm currently living in Maldives 🌴 🇲🇻
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`.
 - 👀 I’m interested in a full time Job
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 Ping me about **design**, **web development**, **mobile app development**, **data analytics** and **database management**.
 - 💞️ I’m looking to collaborate on web and mobile app developement projects
 - 🍵 I am a certified Tea connoisseur
 - 📫 Reach me at: naza.zuhair@gmail.com

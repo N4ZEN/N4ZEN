@@ -24,17 +24,14 @@ and a freelance software developer since 2019 .
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> My Tech Stack </h2>
 
 ## Languages
-
-![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -104,7 +101,6 @@ and a freelance software developer since 2019 .
 
 
 ### other
-
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)
@@ -117,11 +113,8 @@ and a freelance software developer since 2019 .
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_innng_)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
-[![](https://img.shields.io/badge/-email-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/drive/folders/1Mz8MBte2PTQ4QAns7p70Q3OPk-Jn73rA?usp=sharing)
+[![](https://img.shields.io/badge/-email-2D4E00?style=flat-square)](naza.zuhair@gmail.com)
 
 

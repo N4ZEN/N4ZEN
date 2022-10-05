@@ -14,7 +14,7 @@ and a freelance software developer since 2019 .
 
 - 🏢 I'm currently living in Maldives 🌴 🇲🇻
 - 👀 I’m interested in a full time Software Developer position
-- ⚙️ I use daily: `.js`, `.html`, `.css` `react-native`.
+- ⚙️ I use daily: `.js`, `.html`, `.css` `react.js`, `react-native`.
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **web development**, **mobile app development**, **data analytics** and **database management**.
 - 💞️ I’m looking to collaborate on web and mobile app developement projects

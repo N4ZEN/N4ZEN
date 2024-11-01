@@ -113,7 +113,7 @@ and a freelance software developer since 2019 .
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/mariyamnazaazuhair)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/drive/folders/1Mz8MBte2PTQ4QAns7p70Q3OPk-Jn73rA?usp=sharing)
+# [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/drive/folders/1Mz8MBte2PTQ4QAns7p70Q3OPk-Jn73rA?usp=sharing)
 [![](https://img.shields.io/badge/-email-2D4E00?style=flat-square)](naza.zuhair@gmail.com)
 
 
